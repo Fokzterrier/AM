@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mind_AM</string>
+    <string name="action_settings">Settings</string>
+    <string name="TestSound">Test Sound</string>
+  <string name="StartMotor">Start Motor</string>
+  <string name="StopMotor">Stop Motor</string>
+  <string name="Reverse">Reverse</string>
+
+</resources>
